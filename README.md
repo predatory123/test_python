@@ -1,2 +1,2 @@
 # test_python
-just try try
+just so so 
